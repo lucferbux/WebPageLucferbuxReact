@@ -1,3 +1,13 @@
+# Lucferbux Webpage
+[![License][license-image]][license-url]
+> My Personal Webpage
+
+![intro](meta/intro.png)
+
+
+
+## Requirements
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -42,3 +52,38 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
+## Deploy
+
+Just run `npm run deploy` to build the Webpage
+
+## Contribute
+
+We would love you for the contribution to **Lucferbux Webpage**, check the ``LICENSE`` file for more info.
+
+## Meta
+
+Lucas Fernandez – [@lucferbux](https://twitter.com/lucferbux) – lucasfernandezaragon@gmail.com
+
+Distributed under the MIT license. See ``LICENSE`` for more information.
+
+
+[webpage-url]:https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Flucferbux.dev
+[webpage-imagel]:https://img.shields.io/website/https/lucferbux.dev.svg
+
+[license-image]: https://img.shields.io/badge/License-MIT-blue.svg
+[license-url]: LICENSE
+
+
+
+
+
+
+
+
+
+
+
+
